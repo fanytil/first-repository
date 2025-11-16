@@ -1,0 +1,3 @@
+[submodule "git-handbook"]
+	path = git-handbook
+	url = https://github.com/fanytil/first-repository
